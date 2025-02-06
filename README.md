@@ -13,7 +13,7 @@ When running the *classification-ipynb* file the dataset will be automatically d
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/fire-detection-ml.git
+   git clone https://github.com/mdiaz683/KNN-vs-DT.git
    cd fire-detection-ml
    ```
 
@@ -23,3 +23,7 @@ When running the *classification-ipynb* file the dataset will be automatically d
    ```
    
 3. Run the model training notebook
+   ```bash
+   jupyter notebook classification.ipynb
+   ```
+
