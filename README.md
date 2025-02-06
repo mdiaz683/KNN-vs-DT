@@ -1,4 +1,4 @@
-# Fire Detection using IoT Sensor Data with KNN and Decision Tree
+# Comparison of KNN and Decision Tree Algorithms for Classification in Fire Detection Systems using IoT Sensor Data
 
 ## Overview
 This project compares the performance of K-Nearest Neighbors (KNN) and Decision Tree algorithms in predicting fire incidents using IoT sensor data. The dataset includes environmental sensor readings such as temperature, humidity, gas concentrations, and particulate matter levels, which are used to classify whether a fire alarm should be triggered.
@@ -6,7 +6,7 @@ This project compares the performance of K-Nearest Neighbors (KNN) and Decision 
 ## Dataset
 Source: Kaggle - Smoke Detection Dataset *https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset/data*
 
-When running the *classification-ipynb* file the dataset will be automatically decompressed and loaded from *data.zip*
+**Note**: When running the *classification-ipynb* file the dataset will be automatically decompressed and loaded from *data.zip*
 
 
 ### How to Run
@@ -14,7 +14,6 @@ When running the *classification-ipynb* file the dataset will be automatically d
 1. Clone this repository:
    ```bash
    git clone https://github.com/mdiaz683/KNN-vs-DT.git
-   cd fire-detection-ml
    ```
 
 2. Install dependencies:
